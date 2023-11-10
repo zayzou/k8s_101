@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///Users/z.soffi/Desktop/k8s_101/webapp.yaml"
+    }
+}
